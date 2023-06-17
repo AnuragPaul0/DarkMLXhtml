@@ -1,4 +1,4 @@
-# DarkMLXhtml
+# MLX exported to light theme HTML is converted to Dark.
 
 [Dark HTML.](https://anuragpaul0.github.io/DarkMLXhtml/Dark.html)
 

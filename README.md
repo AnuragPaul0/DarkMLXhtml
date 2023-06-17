@@ -4,6 +4,21 @@
 
 [Light HTML.](https://anuragpaul0.github.io/DarkMLXhtml/Light.html)
 
+## Usage
+
+As an example, here is a basic test to ensure the integrity of the final file:
+On matlab replace the address in input(top) as:
+```
+ad = '/MATLAB Drive/mlxfile.html' % file path of the file
+```
+Run all sections and a new file mlxfile-Dark.html should be created with the same content as in mlxfile.html.
+
+### Content
+
+* `Dark.mlx` contains the main program, constants and most functions that are used to do this job.
+* `Dark.html` contains dark themed html, same as the dark themed matlab preference MLX.
+* `Light.html` contains MLX exported to light theme HTML.
+
 ## License
 
 MIT License

@@ -1,4 +1,4 @@
-# MLX exported to light theme HTML is converted to Dark.
+# MLX exported to light theme HTML is converted to Dark using MATLAB.
 
 [Dark HTML.](https://anuragpaul0.github.io/DarkMLXhtml/Dark.html)
 

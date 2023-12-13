@@ -1,6 +1,6 @@
 # MLX exported to light theme HTML is converted to Dark using MATLAB.
 
-Some `rgb()` and `color: #______` inputs are Invertered using replace().
+Some `rgb()` and `color: #______` inputs are Invertered using `replace()`.
 
 [Dark HTML.](https://anuragpaul0.github.io/DarkMLXhtml/Dark.html)
 
